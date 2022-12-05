@@ -1,2 +1,2 @@
 #!/bin/bash
-ls; if [[ "$?" = 0 ]]; then echo '(Ôo)'; else echo ':('; fi
+"(Ôo)'
